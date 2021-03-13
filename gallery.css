@@ -1,0 +1,28 @@
+
+/* Safari syntax */
+:-webkit-full-screen {
+  background-color: Azure;
+}
+
+/* IE11 */
+:-ms-fullscreen {
+  background-color: Azure;
+}
+
+/* Standard syntax */
+:fullscreen {
+  background-color: Azure;
+}
+
+
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 4px 10px 4px 10px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
