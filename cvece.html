@@ -1,11 +1,70 @@
-<!DOCTYPE HTML>
-
+<!DOCTYPE html>
 <html>
-	
-	<body class="is-preload-0 is-preload-1 is-preload-2">
-      <a href="index.html">Back</a>
-      <br>
-      <br>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+/* Safari syntax */
+:-webkit-full-screen {
+  background-color: Azure;
+}
+
+/* IE11 */
+:-ms-fullscreen {
+  background-color: Azure;
+}
+
+/* Standard syntax */
+:fullscreen {
+  background-color: Azure;
+}
+
+
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+</style>
+</head>
+<body>
+
+<h2>Cvece - Flowers</h2>
+<a href="index.html" class="button">Back</a>
+<button onclick="openFullscreen();">Open Fullscreen</button>
+<button onclick="closeFullscreen();">Close Fullscreen</button>
+<br>
+<br>
+<br>
+<script>
+var elem = document.documentElement;
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.webkitRequestFullscreen) { /* Safari */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE11 */
+    elem.msRequestFullscreen();
+  }
+}
+
+function closeFullscreen() {
+  if (document.exitFullscreen) {
+    document.exitFullscreen();
+  } else if (document.webkitExitFullscreen) { /* Safari */
+    document.webkitExitFullscreen();
+  } else if (document.msExitFullscreen) { /* IE11 */
+    document.msExitFullscreen();
+  }
+}
+</script>
+
+      
 		<image src="large_images/cvece/1.jpg"/>
       <image src="large_images/cvece/2.jpg"/>
       <image src="large_images/cvece/3.jpg"/>
