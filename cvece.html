@@ -3,33 +3,54 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="gallery.css">
-
 <script src="gallery.js"></script>
-
+   <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+            height: 100%;
+        }
+        .center-fit {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+        }   
+    </style>
+    
+    
+    
 </head>
 <body>
-
-<h2>Cvece - Flowers</h2>
-<a href="index.html" class="button">Back</a>
-<button onclick="openFullscreen();" class="button">Open Fullscreen</button>
-<button onclick="closeFullscreen();" class="button">Close Fullscreen</button>
-<br>
-<br>
-<br>
-
-
+   <div class="center">
+   
+      <h2>Cvece - Flowers</h2>
+      <a href="index.html" class="button">Back</a>
+      <button onclick="openFullscreen();" class="button">Open Fullscreen</button>
+      <button onclick="closeFullscreen();" class="button">Close Fullscreen</button>
+      <br>   
+      <br>
       
-		<image src="large_images/cvece/1.jpg"/>
-      <image src="large_images/cvece/2.jpg"/>
-      <image src="large_images/cvece/3.jpg"/>
-      <image src="large_images/cvece/4.jpg"/>
-      <image src="large_images/cvece/5.jpg"/>
-      <image src="large_images/cvece/6.jpg"/>
-      <image src="large_images/cvece/7.jpg"/>
-      <image src="large_images/cvece/8.jpg"/>
-      <image src="large_images/cvece/9.jpg"/>
-      <image src="large_images/cvece/10.jpg"/>
+     
+   
+      <img class="center-fit" src="large_images/cvece/1.jpg"/>
+      <img class="center" src="large_images/cvece/1.jpg"/>
       
-
-	</body>
+      <img src="large_images/cvece/1.jpg"  style="float:left;width:90%;height:100%;object-fit:cover;">
+      
+      
+      <img class="center" src="large_images/cvece/2.jpg"/>
+      <img class="center" src="large_images/cvece/3.jpg"/>
+      <img class="center" src="large_images/cvece/4.jpg"/>
+      <img class="center" src="large_images/cvece/5.jpg"/>
+      <img class="center" src="large_images/cvece/6.jpg"/>
+      <img class="center" src="large_images/cvece/7.jpg"/>
+      <img class="center" src="large_images/cvece/8.jpg"/>
+      <img class="center" src="large_images/cvece/9.jpg"/>
+      <a href="cvet10.html"><img class="center" src="large_images/cvece/10.jpg"/></a>
+  </div>      
+   
+</body>
 </html>

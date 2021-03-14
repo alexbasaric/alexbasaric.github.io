@@ -14,6 +14,12 @@
   background-color: Azure;
 }
 
+.center {
+  margin: auto;
+  width: 90%;  
+  padding: 10px;
+  text-align: center;
+}
 
 .button {
   font: bold 11px Arial;
@@ -26,3 +32,8 @@
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
 }
+
+IMG.displayeda {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
