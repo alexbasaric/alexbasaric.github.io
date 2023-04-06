@@ -1,0 +1,29 @@
+{
+  "bundles": {
+    "lwc": {
+      "version": "2.38.1",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/lwc/v/2_38_1/s/183b29ac1be89ec47e9ba9b34652a5cce805de96/bundle_lwc.js",
+      "includedModules": [],
+      "imports": []
+    },
+    "@lwrjs/app-service/example/module/amd": {
+      "version": "0.9.0",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/amd/v/0_9_0/s/ae96fefa3e780c1ca09fc914875f7b689a31f40f/bundle_@lwrjs_app-service_example_module_amd.js",
+      "includedModules": [
+        "lwr/metrics/v/0_9_0",
+        "lwr/init/v/0_9_0"
+      ],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    },
+    "example/app": {
+      "version": "0.0.1",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/bf36660a549f61e10abae5c00a7880dc91a67246/bundle_example_app.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/2_38_1"
+      ]
+    }
+  }
+}

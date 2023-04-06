@@ -1,0 +1,12 @@
+{
+  "resources": {
+    "lwr-loader-shim.bundle.min.js": {
+      "path": "/1/resource/amd/lwr-loader-shim.bundle.min.js/v/0_9_0/lwr-loader-shim.bundle.min.js",
+      "mimeType": "application/javascript"
+    },
+    "lwr-error-shim.js": {
+      "path": "/1/resource/amd/lwr-error-shim.js/v/0_9_0/lwr-error-shim.js",
+      "mimeType": "application/javascript"
+    }
+  }
+}

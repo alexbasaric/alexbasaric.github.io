@@ -1,0 +1,24 @@
+{
+  "assets": {
+    "/public/assets/css/main.css": {
+      "path": "\\1\\asset\\immutable\\s\\16808199404570458\\public\\assets\\css\\main.css",
+      "mimeType": "text/css"
+    },
+    "%5Cpublic%5Cassets%5Ccss%5Cmain.css": {
+      "path": "\\public\\assets\\css\\main.css",
+      "mimeType": "text/css"
+    },
+    "%5Cpublic%5Cassets%5Cfavicon.ico": {
+      "path": "\\public\\assets\\favicon.ico",
+      "mimeType": "image/vnd.microsoft.icon"
+    },
+    "%5Cpublic%5Cassets%5Crecipes-logo.png": {
+      "path": "\\public\\assets\\recipes-logo.png",
+      "mimeType": "image/png"
+    },
+    "%5Cfavicon.ico": {
+      "path": "\\favicon.ico",
+      "mimeType": "image/vnd.microsoft.icon"
+    }
+  }
+}

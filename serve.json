@@ -1,0 +1,50 @@
+{
+ "rewrites": [
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/lwc/v/2_38_1",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/lwc/v/2_38_1/s/183b29ac1be89ec47e9ba9b34652a5cce805de96/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/lwc%2Fv%2F2_38_1",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/lwc/v/2_38_1/s/183b29ac1be89ec47e9ba9b34652a5cce805de96/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/lwc",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/lwc/v/2_38_1/s/183b29ac1be89ec47e9ba9b34652a5cce805de96/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/amd/v/0_9_0",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/amd/v/0_9_0/s/ae96fefa3e780c1ca09fc914875f7b689a31f40f/bundle_@lwrjs_app-service_example_module_amd.js"
+  },
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2Fexample%2Fmodule%2Famd%2Fv%2F0_9_0",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/amd/v/0_9_0/s/ae96fefa3e780c1ca09fc914875f7b689a31f40f/bundle_@lwrjs_app-service_example_module_amd.js"
+  },
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/amd",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/amd/v/0_9_0/s/ae96fefa3e780c1ca09fc914875f7b689a31f40f/bundle_@lwrjs_app-service_example_module_amd.js"
+  },
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2Fexample%2Fmodule%2Famd",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/amd/v/0_9_0/s/ae96fefa3e780c1ca09fc914875f7b689a31f40f/bundle_@lwrjs_app-service_example_module_amd.js"
+  },
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/bf36660a549f61e10abae5c00a7880dc91a67246/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/example%2Fapp%2Fv%2F0_0_1",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/bf36660a549f61e10abae5c00a7880dc91a67246/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/bf36660a549f61e10abae5c00a7880dc91a67246/bundle_example_app.js"
+  },
+  {
+   "source": "/1/bundle/amd/l/en-US/bi/0/module/mi/example%2Fapp",
+   "destination": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/bf36660a549f61e10abae5c00a7880dc91a67246/bundle_example_app.js"
+  }
+ ],
+ "directoryListing": false,
+ "renderSingle": true
+}
