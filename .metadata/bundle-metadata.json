@@ -19,8 +19,10 @@
     },
     "example/app": {
       "version": "0.0.1",
-      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/1a3de09752261354e0a8105299b8ed825730c391/bundle_example_app.js",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/4871080dcfba463c44271c40d69ebe0e3cd95830/bundle_example_app.js",
       "includedModules": [
+        "example/paginator/v/0_0_1",
+        "example/eventSimple/v/0_0_1",
         "ui/card/v/0_3_2",
         "example/viewSource/v/0_0_1",
         "example/hello/v/0_0_1"
