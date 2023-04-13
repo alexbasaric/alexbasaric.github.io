@@ -19,13 +19,18 @@
     },
     "example/app": {
       "version": "0.0.1",
-      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/4871080dcfba463c44271c40d69ebe0e3cd95830/bundle_example_app.js",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/7dba3bfbf51edd5f38171910c50308d41c86db2d/bundle_example_app.js",
       "includedModules": [
+        "ui/button/v/0_3_2",
         "example/paginator/v/0_0_1",
         "example/eventSimple/v/0_0_1",
-        "ui/card/v/0_3_2",
         "example/viewSource/v/0_0_1",
-        "example/hello/v/0_0_1"
+        "example/hello/v/0_0_1",
+        "data/contacts/v/0_0_1",
+        "data/wireGetContactListProvider/v/0_0_1",
+        "ui/card/v/0_3_2",
+        "example/contactListItem/v/0_0_1",
+        "example/eventWithData/v/0_0_1"
       ],
       "imports": [
         "lwc/v/2_38_1"

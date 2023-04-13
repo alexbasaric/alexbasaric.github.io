@@ -1,19 +1,115 @@
 {
   "assets": {
-    "/public/assets/css/main.css": {
-      "path": "\\1\\asset\\immutable\\s\\16808199404570458\\public\\assets\\css\\main.css",
+    "/assets/css/main.css": {
+      "path": "\\1\\asset\\immutable\\s\\16808199404570458\\assets\\css\\main.css",
       "mimeType": "text/css"
     },
-    "%5Cpublic%5Cassets%5Ccss%5Cmain.css": {
-      "path": "\\public\\assets\\css\\main.css",
+    "%5Cassets%5Ccss%5Cmain.css": {
+      "path": "\\assets\\css\\main.css",
       "mimeType": "text/css"
     },
-    "%5Cpublic%5Cassets%5Cfavicon.ico": {
-      "path": "\\public\\assets\\favicon.ico",
+    "%5Cassets%5Ccss%5Cnormalize.css": {
+      "path": "\\assets\\css\\normalize.css",
+      "mimeType": "text/css"
+    },
+    "%5Cassets%5Cfavicon.ico": {
+      "path": "\\assets\\favicon.ico",
       "mimeType": "image/vnd.microsoft.icon"
     },
-    "%5Cpublic%5Cassets%5Crecipes-logo.png": {
-      "path": "\\public\\assets\\recipes-logo.png",
+    "%5Cassets%5Cimages%5Candroid-chrome-192x192.png": {
+      "path": "\\assets\\images\\android-chrome-192x192.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Candroid-chrome-512x512.png": {
+      "path": "\\assets\\images\\android-chrome-512x512.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Capple-touch-icon.png": {
+      "path": "\\assets\\images\\apple-touch-icon.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Cbackground.png": {
+      "path": "\\assets\\images\\background.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Cdemo%5Camy_taylor.jpg": {
+      "path": "\\assets\\images\\demo\\amy_taylor.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Cdemo%5Canup_gupta.jpg": {
+      "path": "\\assets\\images\\demo\\anup_gupta.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Cdemo%5Ccaroline_kingsley.jpg": {
+      "path": "\\assets\\images\\demo\\caroline_kingsley.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Cdemo%5Cjennifer_wu.jpg": {
+      "path": "\\assets\\images\\demo\\jennifer_wu.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Cdemo%5Cjonathan_bradley.jpg": {
+      "path": "\\assets\\images\\demo\\jonathan_bradley.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Cdemo%5Cmichael_jones.jpg": {
+      "path": "\\assets\\images\\demo\\michael_jones.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "%5Cassets%5Cimages%5Cfavicon-16x16.png": {
+      "path": "\\assets\\images\\favicon-16x16.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Cfavicon-32x32.png": {
+      "path": "\\assets\\images\\favicon-32x32.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Cfavicon.ico": {
+      "path": "\\assets\\images\\favicon.ico",
+      "mimeType": "image/vnd.microsoft.icon"
+    },
+    "%5Cassets%5Cimages%5Clogo.svg": {
+      "path": "\\assets\\images\\logo.svg",
+      "mimeType": "image/svg+xml"
+    },
+    "%5Cassets%5Cimages%5Cmstile-144x144.png": {
+      "path": "\\assets\\images\\mstile-144x144.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Cmstile-150x150.png": {
+      "path": "\\assets\\images\\mstile-150x150.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Cmstile-310x150.png": {
+      "path": "\\assets\\images\\mstile-310x150.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Cmstile-310x310.png": {
+      "path": "\\assets\\images\\mstile-310x310.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Cmstile-70x70.png": {
+      "path": "\\assets\\images\\mstile-70x70.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Crecipes-logo.png": {
+      "path": "\\assets\\images\\recipes-logo.png",
+      "mimeType": "image/png"
+    },
+    "%5Cassets%5Cimages%5Csafari-pinned-tab.svg": {
+      "path": "\\assets\\images\\safari-pinned-tab.svg",
+      "mimeType": "image/svg+xml"
+    },
+    "%5Cassets%5Cimages%5Csalesforce.svg": {
+      "path": "\\assets\\images\\salesforce.svg",
+      "mimeType": "image/svg+xml"
+    },
+    "%5Cassets%5Cimages%5Csearch.svg": {
+      "path": "\\assets\\images\\search.svg",
+      "mimeType": "image/svg+xml"
+    },
+    "%5Cassets%5Crecipes-logo.png": {
+      "path": "\\assets\\recipes-logo.png",
       "mimeType": "image/png"
     },
     "%5Cfavicon.ico": {
