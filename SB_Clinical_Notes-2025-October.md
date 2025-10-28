@@ -1,4 +1,44 @@
+# 28-Oct-2025 NEU Progress Note
 
+
+## Clinical Notes
+
+### Neurology progress note
+
+We were called about this patient by internal medicine team.They reported the patient continues to have episodes of abnormal movements of his jaw, lipsmacking,staring episodes, abnormal contractions of periorbital muscles. Apparently he has never returned to his baseline since Saturday. He continues to have these episodes. He is currently on Keppra500 twice daily. He had similar episodes before but never that frequent. He was loaded with Keppra on Friday. With no positive effects.  
+  
+We do think these episodes are most likely related to his bilateral subdural hematomas. There is no role for intervention from neurosurgical standpoint (as per neurosurgery team). They signed off.  
+  
+As per conversation with internal medicine Dr. Patient has never received benzodiazepines for the management of these episodes.  
+He is EEG from overnight on October 28 confirmed that he has electroclinical seizures arising from the right frontal region, accompanied by chewing movements. With interictal discharges arising from both frontal lobes.  
+  
+When I was on the call with internal medicine Dr. Patient was having another episode.  
+  
+Kindly advised to give patient 2 mg of Ativan IV immediately as well as Keppra 1000 mg IV. To see whether it stops his clinical seizure episodes.  
+Considering the patient has this worsening of his episodes since Saturday patient is most likely in status epilepticus.  
+  
+At this time his vitals are stable. He is able to protect his airways. However it is important to suppress the seizures and address possible status epilepticus.  
+  
+We kindly asked the internal medicine team to call rapid response team to see the patient and to identify whether patient qualifies for ICU admission, possible management with propofol, close monitoring of his neuro vitals.  
+  
+Will see this patient in the nearest time to assess.  
+  
+Sincerely,  
+fo rDrAbrahao, Staff Neurologist,  
+by K. Gapon, R2 Neuro
+
+---
+
+**Created and Signedby:** GAPON, KATERYNA, MD (2) on 2025-Oct-28 1022
+
+---
+
+  
+
+**Copies to:**
+
+  
+**This report has been signed using electronic authentication.**
 
 # 28-Oct-2025 - NRP EEG Report
 
