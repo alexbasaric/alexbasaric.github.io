@@ -1,3 +1,116 @@
+
+
+# 28-Ocrt-2025  CCM Consult Note
+
+## Clinical Notes
+
+**Rapid Response Team**  
+  
+**ID:** 88M CML with recent PCIin September 2025 and started on DAPT, now with new onset aphasia and pharyngeal symptoms. Rapid response called due to persistent left facial twitching along with drop in GCS
+
+Dobrosav was admitted on 24th October with acute functional decline since 23rd October, noticed to be confused with difficulty swallowing and mild facial droop. While being worked up in TCU, he became aphasic for which code STROKE was called along with the ICU team. His MRI showed subdural frontal hematomas with some edema along R side. He remained alert and responsive otherwise so Rapid signed off.
+
+He had an EGG done 27th October which showed ongoing seizures however as per report, he was at his baseline GCS of 11-12/15 E4M6V1-2 till 10:00am this morning. He was noticed to have abnormal movements of jaw, lip smacking and staring episodes for which IVLorazepam was given along with loading of Levetiracetam. He has not regained consciousness since then with GCS 5-6/15 and has had repeated episodes requiring further BZD pushes, last at 12:15 pm.
+
+Given possiblesub-clinical seizures with status epilepticus, we will admit to L2 ICU
+
+Past medical history  
+-CML since 2023, on RBC transfusions as needed and EPO  
+-CAD s/p CABG in2005 and then PCI to LCx + POBA 23rd September 2025  
+EF: with severe MR  
+-HTN  
+-CKD,baseline Cr 150s
+
+**Physical Examination**  
+BP 99/39(60)  
+HR 68,sinus  
+SpO2 97% on RA, RR 12  
+Afebrile  
+POCT 7.2 mmol/L  
+  
+GCS:3-4 /15E1M1-2V1  
+Neck supple  
+Flexion of right leg  
+Warm, well perfused peripheries  
+
+**Assessment/Plan**  
+Elderly gentleman with transfusion dependent CML,recently started on DAPT for stent placement now with new functional decline in context of subdural hematomas and ?seizures  
+  
+1.Status epilepticus  
+-Has not returned to baseline conscious level since 10am with persistent abnormal movements of left face, maximum 45sprior to aborting with BZD  
+-IV Levetiracetam loaded as per CrCl and started on 500mg BI  
+-Will load with Phenytoin 1 grm and continue standing  
+-Neurology to review  
+-RepeatCT head plain  
+-As per daughter he had a fever on Thursday and then Sunday (?38.5), we willstart empiric meningitic dosings of Ceftriaxone, Acyclovir and Vancomycin  
+Will reassess LPafter CT head
+
+2.NSTEMI s/p PCI 23rd Sept'2025  
+-Off DAPT since 26th October  
+-Cardiology to follow, recommendation by GIM to start ASA per rectal given acuity of procedure.  
+If repeat CT head is nil for new bleed, will follow through
+
+3.AKI onCKD  
+-Non oliguric  
+-Renal adjustments of medications  
+  
+#ICU bestpractice  
+-NPO,attempt NG  
+-SCDs  
+-DNR/DNI  
+  
+Syeda Akefah Hashmi  
+for Neil Adhikari, staff intensivist
+
+---
+
+**Created and Signed by:** HASHMI, SYEDA AKEFAH, MD (2) on 2025-Oct-281502
+
+---
+
+  
+
+**Copies to:**
+
+**Sent via Fax to:** Family DoctorCHOI, JAMES 212 EGLINTON AVE E TORONTO ON M4P 0A3
+
+  
+**This report has been signed usingelectronic authentication.**
+
+# 28-Ocrt-2025 RRT Progress Note
+
+## Clinical Notes
+
+**Date of Assessment:** 2025-10-28 12:30
+
+Paged to see patient with RapidResponse Team due to altered LOC +/- seizure management. Patient is not awake. He is not obstructing at this time. SpO2 100% while on room air with RR 12 / min. Witnessed seizure activity treated by team. Once GOC established, no further role for RT at this time. Please contact us should we be able to assist.
+
+---
+
+**Created and Signed by:** Shapiro, Andrea, RRTon 2025-Oct-28 1304
+
+# 28-Oct-2025 GIM Progress Note
+
+
+## Clinical Notes
+
+**Date of Assessment:** 2025-10-28 11:44
+
+Reassessed at bedside -- Neurology noted ongoing seizure activity (facial and lip twitching, upper limb movements), and one lasting 45s was observed despite 1g Keppra bid and now 2mg Lorazepam IV -- his LOC is greatly reduced, GCS5 but he is currently protecting his airway. Seizures confirmed on EEG yesterday. Concern is low BPand low GCS, potential with any more anticonvulsant activity that he will not protect his airway. Issues remain about the balance between cerebral bleeding and restenosis of his fresh LCx stentfrom a month ago (DAPT held for 3 days so far). Rapid called -- will discuss with Critical Care.
+
+---
+
+**Created and Signed by:** SLAUGHTER, GRAHAM, MD (1) on 2025-Oct-281147
+
+---
+
+  
+
+**Copies to:**
+
+  
+**This report has been signed usingelectronic authentication.**
+
 # 28-Oct-2025 NEU Progress Note
 
 
