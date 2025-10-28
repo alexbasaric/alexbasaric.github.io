@@ -1,6 +1,6 @@
 
 
-# 28-Oct-2025 - EEG
+# 28-Oct-2025 - NRP EEG Report
 
 ## Clinical Notes
 
@@ -71,6 +71,38 @@ Division of Neurology
   
 **This report hasbeen signed using electronic authentication.**
 
+# 27-Oct-2025 RADIOLOGY -Kidney and Pelvic Ultrasound
+
+## Radiology
+
+[Image Available](https://www.mychart.ca/pages/recordDetail.cfm?keys=C22FD28F05163B992EF896021E2D67AEA6E34B6E284657B109836110E1706DE97B83BE489E2BED92DA5FAE05CFB517D1ACED63922755E1EF4E127D857A9E819FC657DDF1D91FF9F440B94E8B560DFEB9E15343846637E943A4F6A366AA47E8E46B0C7F4D4445215EBC868A31C6377F25)  
+
+  
+RENAL AND PELVIC ULTRASOUND  
+  
+  
+Comparison is made to outside ultrasound done February 13, 2025.  
+  
+FINDINGS:  
+  
+Technically difficult study due to patient factors.  
+  
+The right kidney is 9.5 versus 9.3 cm long. Echogenic renal cortex as seen previously, perhaps more so now. Trace perinephric fluid now. No hydronephrosis, renal stones or other abnormality.  
+  
+Left kidney 9.3 versus 9.1 cm long. Increased cortical echogenicity, likely slightly more so now. Trace perinephric fluid now. No hydronephrosis or renal stones. Interpolar region simple appearing cortical cyst measuring 1.3 cm, seen previously.  
+  
+Trabeculated urinary bladder as before with small diverticula. Estimated prostate volume 15 cc.  
+  
+Modest free fluid in the abdomen and pelvis now.  
+  
+INTERPRETATION  
+  
+Stable normal renal size. Echogenic renal cortex, slightly more so, in keeping with medical renal disease. Trace perinephric fluid. Modest free intraperitoneal fluid now.  
+  
+Trabeculated bladder as before.  
+  
+_________________  
+This report was electronically signed by Jane Wall, Staff Radiologist on 2025-10-27 12:15 PM EDT
 
 # 27-Oct-2025 AMS Assesment Note
 
