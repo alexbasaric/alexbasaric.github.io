@@ -1,9 +1,78 @@
----
-layout: default
----
 
 
-# 27-Oct-2025 AMD Assesment Note
+# 28-Oct-2025 - EEG
+
+## Clinical Notes
+
+MRN 2081964
+
+EEG 1025
+
+Date of Recording: 2025-10-27
+
+Date of Birth:
+
+This is an 88 year-old male with confusion, aphasia, facial droop, seizures.Bilateral acute SDH
+
+This is a 30 minute video EEG with the 10-20 electrodesystem.
+
+FINDINGS
+
+Abnormality #1: **6 electroclinical seizures** were seen arising from the right frontal and parietal region, beginning with a sudden emergence of focal alpha/beta activity evolving into slower theta activity and eventually sharp waves in the2-4Hz delta range before evolving again into theta then alpha activity and stopping after \R\1:30. These episodes were accompanied by rhythmic chewing movements. Left hemispheric activity was obscured by muscle artifact and so the extent to which ictal activity spread to the left hemisphereis not clearly demonstrated.
+
+Abnormality #2: Frequent sharp wave discharges were seen arising from the right frotnal region, at times oraganized into PLEDS at 1-3Hz.
+
+Abnormality #3: Sharp wave discharges were seen arising from the left frontal and at times left temporal region.
+
+Abnormality #4: Focal slowing in the delta range was seen arising from both frontal and temporal regions.
+
+Abnormality #5: The waking background was slightly slow, often consisting of a mixture of 8Hz alpha and 6-8Hz theta activtiy.
+
+Sleep: Was not seen
+
+Hyperventilation: could not bedone
+
+Photic stimulation: induced no abnormalities
+
+EOG: captured no abnormal eye movements
+
+ECG: showed an at times irregular rhythm at 80-90 beats per minute
+
+Video: as above
+
+IMPRESSION
+
+This was an abnormal EEG.
+
+1. 6 self-limited electroclinical seizures were seen arising from the right frontal region, accompanied by chewing movements.
+
+2. Interictal discharges were seen arising from both frontal lobes
+
+3. Focal slowing was seen in the same regions
+
+4. The background was slightly slow.
+
+Andrew Lim, MDFRCPC
+
+Division of Neurology
+
+---
+
+**Created and Signed by:** LIM, ANDREW, MD (1) on2025-Oct-28 0054
+
+---
+
+  
+
+**Copies to:**
+
+**Sent via Fax to:**Family Doctor CHOI, JAMES 212 EGLINTON AVE E TORONTO ON M4P 0A3
+
+  
+**This report hasbeen signed using electronic authentication.**
+
+
+# 27-Oct-2025 AMS Assesment Note
 
 ## Clinical Notes
 
