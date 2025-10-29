@@ -1,6 +1,117 @@
 
 
-# 28-Ocrt-2025  CCM Consult Note
+# 28-Oct-2025  VAT Consult Note
+
+## Clinical Notes
+
+**Date of Assessment:** 2025-10-28 12:42 Inserted IVsaline lock in the right (cephalic vein) arm using g22 BD Nexiva catheter, noted with good bloodreturn and flushing well. Vein acuity level 4 with 1x attempt. Flushed catheter with 10 ml NS andsecured with tegaderm dressing. Patient tolerated procedure well and primary Nurse madeaware.
+
+---
+
+**Created and Signed by:** Gravoso, Mark Anthony, RN on 2025-Oct-281715
+
+# 28-Oct-2025  NEU PROGRESS Note
+
+## Clinical Notes
+
+**Corrected and Co-Signed by:** ABRAHAO JUNIOR, AGESSANDRO MD (1) on 2025-Oct-281742
+
+---
+
+Neurology consultation note
+
+October 27  
+  
+**ID:** 88 yoM from home with admitted under GIM for acute onset confusion, facial droop, and difficulty withswallowing
+
+**PMHx:**  
+CAD with previous ACS s/p CABG x3 in Jan 2005  
+- Severe MR (unclear mechanism) - TTE March 2025 showed LVEF 63% w/ grade 2 DD. Severe MR, couldnot rule out flail segment of PMVL. Mild AR. LVIDs 3.5 cm  
+- Hypertension  
+-Dyslipidemia  
+- CKD - baseline Cr 160s  
+- T2DM - 6.6% in September 2025  
+- CMMLdiagnosed in 2023 and under active surveillance followed at PMH - chronic bicytopenias (HB and PLT)requiring intermittent RBC transfusions. Unclear baseline frequency of transfusions. Hishemoglobin target is \T\gt; 90. - Dr. Hassan Sibai  
+- GI Bleed - September 2025: Erosivegastritis and duodenitis. Oozing lesion from second portion of the duodenum. Possible  
+Dieulafoy lesion, treated with 2 hemostatic clips.
+
+**Allergies:**NKDA
+
+**Social History:** At home with wife who was recently admittedto hospital last week with stroke-like symptoms (but now home). Walker for ambulation which is newin the past year. Independent in ADLs and IADLs - was changing tires on his car and driving thispast week. Retired mechanical engineer. Non-smoker, no drugs, no ETOH. Serbianspeaking
+
+**HPI:**  
+This is an 88-year-old male with a past medicalhistory significant for CAD, type 2 diabetes, chronic kidney disease, hypertension, and CMML ontransfusions, who presented to Sunnybrook on October 24 with a 48-hour history of confusion andaphasia, which progressed to complete mutism. He was found to have bilateral subdural hematomas,with no role for surgical intervention as per Neurosurgery. He was also noted to have abnormalfacial movements, which were later confirmed to be seizures (EEG). Unfortunately, the frequency ofthese seizures has increased, occurring approximately every 7 minutes since October 24; with noreturn to baseline. There has been no improvement despite initiation of Keppra (loaded at 60 mg/kgon October Oct 24; then continued at 500 mg BID) and 2 mg of IV Ativan on October 28(today).
+
+The patient's daughter at the bedside reported that the last time he was able torespond with nodding was around 10 a.m. today. However, it is important to note that he has notreturned to his baseline since his admission (Independent at baseline).
+
+His daughterpresent at bedside reported that he actually had 2 falls in the past year (3 months ago and 6months ago, unclear if he hit his head) - ask because of his bilateral subdurals.  
+  
+Iimmediately paged rapid response team who further loaded patient with phenytoin and accepted as atransfer to the ICU. He was overall given 500 mg of Keppra today, 6 mg of Ativan and loaded withphenytoin.
+
+  
+**Exam:**  
+When we were paged today, and I came to assess the patient in his room, his GCS was 7 (E1, V1, M5). He was unresponsive, with his eye sclosed, and he could not be awakened. He was protecting his airways; his BP was 97/39, RR12, O2 sat96% on RA, HR 67. He was withdrawing all four limbs in response to pain. His eyes were in primary gaze with slight left sided deviation, and bilateral hippus; however, both pupils were equal and reactive to light. Deep tendon reflexes were equal and symmetrical at 2+, and plantar responses were downgoing bilaterally.  
+I have noticed 2 episodes in 15 minutes of left sided lower face twitching that lasted 30-40 seconds.  
+  
+**Investigations:**  
+Albumin 29, calcium 1.96, phosphate 1.29  
+Hemoglobin 16.9, white blood cell count 4.8,platelet count 41  
+Creatinine 151, glucose 6.8, INR 1.56  
+  
+**Imaging:**  
+(October 28) CT head  
+- Slight increase in thickness of the acute on chronic left cerebral convexity hematoma. No significant increase in mass effect. No local new hyperdensity to suggest significant interval subdural hemorrhage.  
+- Interval development of inferior left frontal hypodensity with new small volume local hyperdense components, in keeping with an evolving contusion with increased edema and limited new hemorrhagic changes.  
+- No other adverse interval change demonstrated.
+
+(October 26) MRI brain  
+- Cytoxic edema involving the right frontal lobe subjacent to the right frontal subdural hematoma. Given its wedge-shaped configuration this is favored to represent ischemia. This may have resulted from disturbed microcirculation because of the  
+adjacent hemorrhage, possibly in combination with watershed ischemia, or less likely embolic ischemia. Reactive cortical cytotoxic change to the hemorrhage, post-contusional restriction diffusion, and post seizure changes are other additional  
+considerations, but less favored. A cerebritis is considered unlikely given the absence of features of empyema, though it cannot be entirely excluded  
+- No significanti nterval change in the multicompartment hemorrhages, allowing for technical differences between studies. Ventricular size remains stable.
+
+(October 27) EEG  
+This was an abnormalEEG.  
+1. 6 self-limited electroclinical seizures were seen arising from the right frontalregion, accompanied by chewing movements.  
+2. Interictal discharges were seen arising fromboth frontal lobes  
+3. Focal slowing was seen in the same regions  
+4. The background wasslightly slow.  
+
+**Impression and plan:**  
+Patient's current presentation os most Ilkley consistent with status epilepticus with his seizures related to his bilateral subdural hematomas. Rapid team assessed the patient and he ws further transferred to theICU. He was loaded with phenytoin following 6 mg of ativan and 500 mg of IV Keppra. He had a repeat CT which revealed slight increase in thickness of the acute on chronic left cerebralconvexity hematoma and interval development of inferior left frontal hypodensity with new small volume local hyperdense components, in keeping with an evolving contusion with increased edema and limited new hemorrhagic changes. Neurosurgery signed off - no role for intervention. At this time we do recommend to continue this patient on Lacosamide 50 mg BID and Keppra 750 mg bid (or a kidney adjusted dose) with further uptitration if this dose is ineffective for the management of his seizures.  
+We will follow.
+
+Sincerely,  
+for Dr Abrahao, Staff neurologist,  
+by K. Gapon, R2 Neuro
+
+---
+
+**Created and Signed by:** GAPON, KATERYNA, MD (2) on2025-Oct-28 1706
+
+# 28-Oct-2025  CCM Advance Care Planning Note
+
+## Clinical Notes
+
+**Corrected and Co-Signed by:** ADHIKARI, NEILL MD (1) on 2025-Oct-28 1608
+
+---
+
+**Goalsof care**  
+_1220 - 1320_  
+  
+I was able to meet with Dobrosav'sdaughter, Lydia, at bedside and provide an update regarding his clinical condition including the deterioration of his conscious level. Lydia and Alex(son) have a shared POA regarding their father. She mentioned that before this admission, in his prior hospital visits, her father was clear about not wanting any artificial support that would 'keep him hanging in misery'. I noted that his Princess Margaret Hospital clinic visit also mentions DNR/DNI.  
+While Lydia was understandably distraught, we(myself, her and Alex via phone call) were able to have a conversation including Dobrosav's expressed wishes and the family's will to not make it uncomfortable or painful for him more than needs be. This includes not for CPR or intubation however okay for vasopressors and non-invasive ventilation.  
+Relevant forms filled and updated in chart  
+  
+SyedaAkefah Hashmi  
+for Neil Adhikari, staff intensivist
+
+---
+
+**Created and Signed by:**HASHMI, SYEDA AKEFAH, MD (2) on 2025-Oct-28 1602
+
+# 28-Oct-2025  CCM Consult Note
 
 ## Clinical Notes
 
