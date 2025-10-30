@@ -1,5 +1,85 @@
 
 
+# 29-Oct-2025  NRP EEG REPORT
+
+## Clinical Notes
+
+**Date of Assessment:** 2025-10-29
+
+History:
+
+Bilateral SDH withongoing seizures.HX of CKD,CML. EEG on Oct 27 : 6 electroclinical seizures arising from the rightfrontal and parietal region.
+
+Results:
+
+This EEG ran from 1211 until 1312. Therewas no sedation during the recording. The patient was on lacosamide andlevetiracetam.
+
+There was no clear posterior dominant rhythm. There was continuouspolymorphic theta and delta frequencies over both hemispheres. There were approximately 1 Hzperiodic lateralized discharges present over the right hemisphere for much of the recording; spikemorphologies were at times seen maximal over F4 C4 electrodes (e.g.12:35:22). There wereincorporated faster frequencies at times seen within the periodic discharges. Intermittent photicstimulation did not appreciably alter the record. There were no seizuresrecorded.
+
+Impression:
+
+There were lateralized periodic discharges seen throughoutmuch of this EEG recording over the right hemisphere and maximal over the right frontocentralregion. These however did not evolve in frequency or morphology and no frank electrographicseizures were identified.
+
+There was a continuous diffuse nonspecific disturbance ofelectrocerebral activity seen over both hemispheres throughout.
+
+The 2helps2B score was 3.An additional point should be added for any clinical history of seizure.
+
+---
+
+**Created and Signed by:** JIRSCH, JEFFREY, MD (1) on 2025-Oct-291753
+
+---
+
+  
+
+**Copies to:**
+
+**Sent via Fax to:** Family DoctorCHOI, JAMES 212 EGLINTON AVE E TORONTO ON M4P 0A3
+
+
+# 29-Oct-2025  NEU PROGRESS Note
+
+
+## Clinical Notes
+
+**Co-Signed by:** ABRAHAO JUNIOR, AGESSANDRO MD (1) on 2025-Oct-29 1255
+
+---
+
+**Date ofAssessment:** 2025-10-29 09:06
+
+**Neurology Progress Note**
+
+Isaw Mr. Basaric this morning, with his primary nurse at the bedside. He is a an 88-year-old manadmitted under GIM, he has a right frontal SDH and brain contusions. He has a history of CMML andCAD. We were consulted for confusion and we observed 2 episodes in 15 minutes of left sided lowerface twitching. There have been no further observed seizures, and clinically he is no longer in SE.He is not currently on any sedation. He is currently being renally dosed with Keppra 500mg BID andLacosamide 50mg BID, this is a good choice given the hematological malignancy, and we thus do notsuggest phenytoin.
+
+Suggest:  
+1. Continue Keppra 500mg BID as renally dosed andLacosamide 50mg BID.  
+2. Repeat routine EEG on Friday  
+3. Based on clinical progressionand electrographic evolution, we can decide how to taper his ASMs. Likely we can do a cross-taper,by decreasing the Keppra and maintaining on Lacosamide.
+
+Anuj Rastogi, PGY5 Neurology  
+For Staff Neurologist Dr. Abrahao
+
+_______________
+
+(October 26) MRI brain  
+- Cytoxic edema involving the right frontal lobe subjacent to the right frontal subduralhematoma. Given its wedge-shaped configuration this is favored to represent ischemia. This may haveresulted from disturbed microcirculation because of the  
+adjacent hemorrhage, possibly incombination with watershed ischemia, or less likely embolic ischemia. Reactive cortical cytotoxicchange to the hemorrhage, post-contusional restriction diffusion, and post seizure changes areother additional  
+considerations, but less favored. A cerebritis is considered unlikely giventhe absence of features of empyema, though it cannot be entirely excluded  
+- No significantinterval change in the multicompartment hemorrhages, allowing for technical differences betweenstudies. Ventricular size remains stable.
+
+(October 27) EEG  
+This was an abnormalEEG.  
+1. 6 self-limited electroclinical seizures were seen arising from the right frontalregion, accompanied by chewing movements.  
+2. Interictal discharges were seen arising fromboth frontal lobes  
+3. Focal slowing was seen in the same regions  
+4. The background wasslightly slow.
+
+---
+
+**Created and Signed by:** RASTOGI, ANUJ, MD (2) on 2025-Oct-290939
+
+
 # 28-Oct-2025  VAT Consult Note
 
 ## Clinical Notes
