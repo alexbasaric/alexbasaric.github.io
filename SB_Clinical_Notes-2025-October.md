@@ -1,4 +1,31 @@
 
+# 30-Oct-2025 RADIOLOGY
+
+CT HEAD WITHOUT CONTRAST  
+  
+  
+PROCEDURE: Axial images were performed without contrast.  
+  
+COMPARISON: CT Oct 28, 2025  
+  
+FINDINGS:  
+  
+Grossly unchanged acute right cerebral convexity subdural hematoma.  
+  
+Slight increase in thickness of the acute on chronic left cerebral convexity subdural hematoma, with a thickness of 21 mm, previously 20 mm measured at the same plane.  
+  
+No midline shift.  
+Stable parafalcine and right tentorial subdural hematoma and scattered right cerebral trace subarachnoid hemorrhage.  
+Decreased trace right occipital horn intraventricular hemorrhage.  
+  
+Similar inferior left frontal contusion.  
+  
+Chronic bilateral basal ganglia lacunar infarcts.
+
+ChatGPT:  https://chatgpt.com/s/t_6904b90848288191a59030b00e394cdf
+
+https://chatgpt.com/s/t_6904b93933408191aeb261fffe919f16
+
 
 # 29-Oct-2025  NRP EEG REPORT
 
