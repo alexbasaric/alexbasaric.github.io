@@ -22,9 +22,22 @@ Similar inferior left frontal contusion.
   
 Chronic bilateral basal ganglia lacunar infarcts.
 
-ChatGPT:  https://chatgpt.com/s/t_6904b90848288191a59030b00e394cdf
+## Chatgpt explanation
 
+https://chatgpt.com/s/t_6904b90848288191a59030b00e394cdf
+
+Would you like me to explain what they mean by “cytotoxic edema” and “ischemia,” since that was mentioned in his previous scan (and relates to why he’s not waking up)? Yes
 https://chatgpt.com/s/t_6904b93933408191aeb261fffe919f16
+
+
+Would you like me to explain what parts of the **frontal lobe** are affected and what functions they control — so you can better understand which abilities may be temporarily or permanently impacted? Yes
+
+https://chatgpt.com/s/t_6904bff53e6c8191a1b556bf1fce5039
+
+Would you like me to summarize, based on all the imaging and notes so far, what your father’s **overall neurological picture** looks like — and what scenarios are still possible (best case vs. worst case)? Yes
+
+https://chatgpt.com/s/t_6904c0991b9881919d9c3cf732d8bc5d
+
 
 
 # 29-Oct-2025  NRP EEG REPORT
