@@ -1,4 +1,49 @@
+# 31-Oct-2024 NEU Progress Note
 
+
+## Clinical Notes
+
+**Date of Assessment:** 2025-10-31 14:00
+
+Neurology progressnote
+
+ID: He is a an 88-year-old man admitted under GIM, he has a right convexity SDH.  
+He has a history of CMML and CAD.  
+We were consulted for confusion and further developed status epilepticus, for which he was transferred to ICU.
+
+He is not clinically in SE. He is not currently on any sedation.  
+He is currently being renally dosed with Keppra 500mg BID and Lacosamide 50mg BID (good choice given the hematological malignancy).
+
+He was seen today bya Neuro team today (Dr Abrahao, Staff Neurologist, 2 senior residents Dr Rastogi and Dr Tilley, JRDr Pandya, CC4 Cortez, and R2 Neuro, Dr Gapon).
+
+Exam:
+
+90/50; HR 106; afebrile  
+GCS 6: M4E1V1  
+PEARL. Eyes in primary gaze. VOR present. Slightly increased DTR on the left compared to the right.  
+Increased muscle tone on the left compared to the right. No Babinskibilat.  
+  
+Oct 29 EEG  
+There were lateralized periodic discharges seen throughout much of this EEG recording over the right hemisphere and maximal over the right frontocentral region. These however did not evolve in frequency or morphology and no frank electrographic seizures were identified. There was a continuous diffuse nonspecific disturbance of electrocerebral activity seen over both hemispheres throughout. The 2helps2B score was 3. An additional point should be added for any clinical history of seizure.
+
+Oct 30 CT head  
+Grossly unchanged acute right cerebral convexity subdural hematoma.  
+Slight increase in thickness of the acuteon chronic left cerebral convexity subdural hematoma, with a thickness of 21 mm, previously 20 mm measured at the same plane.  
+No midline shift.  
+Stable parafalcine and right tentorial subdural hematoma and scattered right cerebral trace subarachnoid hemorrhage.  
+Decreased trace right occipital horn intraventricular hemorrhage.  
+Similar inferior left frontal contusion.  
+Chronic bilateral basal ganglia lacunar infarcts.
+
+A /P: Seizures secondary to right convexity SDH.  
+Our recommendations is Keppra 500 mg BID and Lacosamide 100 mg BID and tore-consult n/surg for the consideration of neurosurgical intervention **if within goals of care**.  
+Repeat Head CT on Nov 1 as per plan from ICU.
+
+K Gapon, R2 for Dr Abrahao, StaffNeurologist
+
+---
+
+**Created and Signed by:** GAPON, KATERYNA, MD (2) on 2025-Oct-311604
 # 30-Oct-2025 RADIOLOGY
 
 CT HEAD WITHOUT CONTRAST  
@@ -39,7 +84,14 @@ Would you like me to summarize, based on all the imaging and notes so far, what 
 https://chatgpt.com/s/t_6904c0991b9881919d9c3cf732d8bc5d
 
 
+Would you like me to help you phrase **specific questions to ask the neurologist or ICU team** when you see them next — to better understand your father’s current chances of recovery and what decisions might be coming soon? yes, including ...
 
+https://chatgpt.com/s/t_6904d1a195448191ae8013c74ff378e1
+
+Would you like me to help you write a short **summary statement** (one paragraph) you could give or read to the doctors — summarizing your father’s medical background, wishes, and what your family needs clarity about? It can make those hard conversations much easier and calmer.
+yes, also note that hey restared ASA, not sure about plavix
+
+https://chatgpt.com/s/t_6904d22505d881918fec194f657e94c8
 # 29-Oct-2025  NRP EEG REPORT
 
 ## Clinical Notes
