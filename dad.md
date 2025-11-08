@@ -47,7 +47,7 @@ blockquote {
 # Dobrosav “Doca” Basarić  
 *September 2, 1937 – November 3, 2025*
 
-<img src="Doca-cita-politiku.jpg" alt="Dobrosav Basarić">
+<img src="doca-blacandwhite.png" alt="Dobrosav Basarić">
 
 It is with deep sadness that we announce the passing of Dobrosav “Doca” Basarić on November 3, 2025. Doca passed away peacefully under the compassionate care of the Sunnybrook Hospital team in Toronto.
 
