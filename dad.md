@@ -44,7 +44,7 @@ blockquote {
 }
 </style>
 
-# Dobrosav “Doca” Basarić  
+# Dobrosav Basarić - Doca 
 *September 2, 1937 – November 3, 2025*
 
 <img src="doca.png" alt="Dobrosav Basarić">
