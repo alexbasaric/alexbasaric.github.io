@@ -4,44 +4,43 @@ title: In Memory of Dobrosav “Doca” Basarić
 ---
 
 <style>
+/* hide big Cayman header */
 .page-header {
   display: none;
 }
+
+/* hide Cayman footer text */
+.site-footer {
+  display: none;
+}
+
+/* center content and make it narrower */
 .main-content {
-  margin-top: 2em;
-}
-</style>
-
-
-<style>
-body {
-  text-align: center;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 1.6;
   max-width: 700px;
-  margin: auto;
-  padding: 2em;
+  margin: 0 auto;
+  padding-top: 2rem;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
-img {
+
+/* image styling */
+.memorial-photo {
   border-radius: 12px;
-  margin: 1em 0;
-  width: 60%;
-  max-width: 350px;
+  margin: 1.5rem auto;
+  max-width: 320px;
+  width: 70%;
   height: auto;
+  display: block;
 }
-h1 {
-  margin-top: 0.5em;
-  font-size: 2em;
-}
-p {
-  text-align: justify;
-}
+
 blockquote {
+  margin: 2rem auto;
+  max-width: 500px;
   font-style: italic;
   color: #555;
-  border-left: 3px solid #ccc;
-  padding-left: 1em;
-  margin-left: 0;
+  border-left: 3px solid #ddd;
+  padding-left: 1rem;
+  text-align: left;
 }
 </style>
 
@@ -66,8 +65,5 @@ In lieu of flowers, the family encourages donations to the Sunnybrook Foundation
 
 
 ---
-
-> “Those we love don’t go away;  
-> they walk beside us every day.”
 
 *(Family of Dobrosav “Doca” Basarić)*  
