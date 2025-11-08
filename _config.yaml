@@ -1,4 +1,4 @@
-title: ""            # removes repo name from the top
-description: ""      # removes subtitle or “open source” footer
+title: ""
+description: ""
+theme: minima   # or 'jekyll-theme-cayman' if you prefer that look
 show_downloads: false
-theme: null          # removes theme layout completely, leaves only your Markdown content
