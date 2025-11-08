@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: In Memory of Dobrosav “Doca” Basarić
+---
 
 # Dobrosav “Doca” Basarić
 
