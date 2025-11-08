@@ -4,6 +4,16 @@ title: In Memory of Dobrosav “Doca” Basarić
 ---
 
 <style>
+.page-header {
+  display: none;
+}
+.main-content {
+  margin-top: 2em;
+}
+</style>
+
+
+<style>
 body {
   text-align: center;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
