@@ -55,17 +55,19 @@ blockquote {
 
 <img src="photo.png" alt="Dobrosav Basarić – Doca" class="memorial-photo">
 
-It is with deep sadness that we announce the passing of Dobrosav “Doca” Basarić on November 3, 2025. Doca passed away peacefully under the compassionate care of the Sunnybrook Hospital team in Toronto.
 
-He is lovingly remembered by his devoted wife of 64 years, Milena; his cherished children, Aleksandar (Snezana) and Lidia (Nebojsa); and his adored grandchildren, Marko, Filip, Katarina, and Luka.
+S tugom u srcima delimo vest sa vama, da je nash suprug, otac I deda, Dobrosav Basarić (“Doca“) preminuo 3. novembra 2025-te u Sunnybrook bolnici u Torontu.
 
-Born in Kragujevac, Serbia, on September 2, 1937, Doca was an engineer both by education and by nature. He approached every challenge with enthusiasm, curiosity, and precision—whether it was an engineering project at work, repairing his own car, or building custom-made furniture for his family home.
+Doca je rođen 2. septembra 1937. godine u Kragujevcu, a veći deo života proveo je u tri grada: mladost u Bečeju, radni vek u Beogradu, penziju u Torontu.
 
-Doca will be remembered for his out-of-the-box thinking, intelligence, sense of humor, and unwavering love for his family. His wit and wisdom will be deeply missed.
+Doca je bio inženjer i po obrazovanju i po svojoj prirodi. Svakom tehnickom izazovu pristupao je s entuzijazmom, radoznalošću i preciznošću — bilo da je reč o inženjerskom projektu na poslu, popravci svog automobile ili svim mogucim popravkama I poslovima po kuci, od vodoinstalaterskih I elektricarskih zahvata do rucne izrade namestaja.
 
-In keeping with his wishes, cremation has taken place.
+Docu cemo pamtiti po njegovoj direktnosti, po teznji da uvek sagleda svaku situaciju iz vise razlicitih uglova, po njegovom specificnom nacinu razmišljanja I inteligenciji, po smislu za humor I, najznacajnije, neiscrpnoj ljubavi prema svojoj porodici.
 
-Friends of the family are invited to express their condolences at **Mount Pleasant Cemetery’s Funeral Centre** (375 Mount Pleasant Road, Toronto) on Sunday, **November 16th from 11:00 a.m**. The memorial service will begin at 12 noon, followed by a small reception.
+Porodica će primati saučešće u Funeral Centre-u groblja Mount Pleasant (375 Mount Pleasant Road, Toronto) u nedelju, 16. novembra, od 11:00 časova. Umesto cveca, i potpuno opciono, u znak secanja na Docu, mozete uplatiti donaciju nekoj humanitarnoj organizaciji po svom izboru.
 
-In lieu of flowers, the family encourages donations to the Sunnybrook Foundation or to a charity of your choice, in Doca’s memory.
-  
+Ozalosceni:
+
+Porodica Basaric (supruga Milena; sin Aleksandar, snaja Snežana, unuk Filip I unuka Katarina)
+
+Porodica Jovanovic (cerka Lidia, zet Nebojša i unuci Marko i Luka)
