@@ -1,38 +1,44 @@
 ---
 layout: default
-title: In Memory of Dobrosav “Doca” Basarić
+title: In Memory of Dobrosav Basarić – Doca
 ---
 
 <style>
-/* hide big Cayman header */
-.page-header {
+/* hide Cayman header and footer */
+.page-header, .site-footer {
   display: none;
 }
 
-/* hide Cayman footer text */
-.site-footer {
-  display: none;
-}
-
-/* center content and make it narrower */
+/* main layout */
 .main-content {
   max-width: 700px;
   margin: 0 auto;
   padding-top: 2rem;
   text-align: center;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #222;
 }
 
 /* image styling */
 .memorial-photo {
   border-radius: 12px;
   margin: 1.5rem auto;
-  max-width: 320px;
-  width: 70%;
+  max-width: 350px;
+  width: 80%;
   height: auto;
   display: block;
 }
 
+/* make image scale gracefully on small screens */
+@media (max-width: 600px) {
+  .memorial-photo {
+    width: 90%;
+    max-width: 300px;
+  }
+}
+
+/* quote block */
 blockquote {
   margin: 2rem auto;
   max-width: 500px;
@@ -44,10 +50,10 @@ blockquote {
 }
 </style>
 
-# Dobrosav Basarić - Doca 
+# Dobrosav Basarić – Doca  
 *September 2, 1937 – November 3, 2025*
 
-<img src="doca.png" alt="Dobrosav Basarić">
+<img src="photo.png" alt="Dobrosav Basarić – Doca" class="memorial-photo">
 
 It is with deep sadness that we announce the passing of Dobrosav “Doca” Basarić on November 3, 2025. Doca passed away peacefully under the compassionate care of the Sunnybrook Hospital team in Toronto.
 
