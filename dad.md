@@ -62,8 +62,4 @@ In keeping with his wishes, cremation has taken place.
 Friends of the family are invited to express their condolences at **Mount Pleasant Cemetery’s Funeral Centre** (375 Mount Pleasant Road, Toronto) on Sunday, **November 16th from 11:00 a.m**. The memorial service will begin at 12 noon, followed by a small reception.
 
 In lieu of flowers, the family encourages donations to the Sunnybrook Foundation or to a charity of your choice, in Doca’s memory.
-
-
----
-
-*(Family of Dobrosav “Doca” Basarić)*  
+  
