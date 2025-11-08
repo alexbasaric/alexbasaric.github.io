@@ -1,4 +1,4 @@
 title: ""
 description: ""
-theme: minima   # or 'jekyll-theme-cayman' if you prefer that look
+theme: jekyll-theme-cayman
 show_downloads: false
