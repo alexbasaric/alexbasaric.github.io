@@ -1,0 +1,4 @@
+title: ""            # removes repo name from the top
+description: ""      # removes subtitle or “open source” footer
+show_downloads: false
+theme: null          # removes theme layout completely, leaves only your Markdown content
