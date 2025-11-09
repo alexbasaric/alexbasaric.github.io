@@ -62,9 +62,9 @@ S tugom u srcima delimo vest sa vama, da je naš suprug, otac I deda, **Dobrosav
 
 Doca je rođen 2. septembra 1937. godine u Kragujevcu, a veći deo života proveo je u tri grada: mladost u Bečeju, radni vek u Beogradu, penziju u Torontu.
 
-Doca je bio inženjer i po obrazovanju i po svojoj prirodi. Svakom tehnickom izazovu pristupao je s entuzijazmom, radoznalošću i preciznošću — bilo da je reč o inženjerskom projektu na poslu, popravci svog automobile ili svim mogucim popravkama I poslovima po kuci, od vodoinstalaterskih i električarskih zahvata do ručne izrade nameštaja.
+Doca je bio inženjer i po obrazovanju i po svojoj prirodi. Svakom tehničkom izazovu pristupao je s entuzijazmom, radoznalošću i preciznošću — bilo da je reč o inženjerskom projektu na poslu, popravci svog automobile ili svim mogucim popravkama I poslovima po kuci, od vodoinstalaterskih i električarskih zahvata do ručne izrade nameštaja.
 
-Docu cemo pamtiti po njegovoj direktnosti, po težnji da uvek sagleda svaku situaciju iz više različitih uglova, po njegovom specifičnom načinu razmišljanja I inteligenciji, po smislu za humor I, najznačajnije, neiscrpnoj ljubavi prema svojoj porodici.
+Docu ćemo pamtiti po njegovoj direktnosti, po težnji da uvek sagleda svaku situaciju iz više različitih uglova, po njegovom specifičnom načinu razmišljanja I inteligenciji, po smislu za humor I, najznačajnije, neiscrpnoj ljubavi prema svojoj porodici.
 
 Porodica će primati saučešće u **Funeral Centre-u groblja Mount Pleasant** (375 Mount Pleasant Road, Toronto) u **nedelju, 16. novembra, od 11:00 časova**. Umesto cveća, i potpuno opciono, u znak sećanja na Docu, možete uplatiti donaciju nekoj humanitarnoj organizaciji po svom izboru.
 

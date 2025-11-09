@@ -55,7 +55,7 @@ It is with deep sadness that we announce the passing of **Dobrosav Basarić (“
 
 He is lovingly remembered by his devoted wife of 64 years, Milena; his cherished children, Aleksandar (Snezana) and Lidia (Nebojsa); and his adored grandchildren, Marko, Filip, Katarina, and Luka.
 
-Born in Kragujevac, Serbia, on September 2, 1937, Doca spent much of his life in three cities: Bečej in his youth, Belgrade from the mid-1960s, and Toronto from the mid- to late-1990s.
+Born in Kragujevac, Serbia, on September 2, 1937, Doca spent much of his life in three cities: Bečej in his youth, Belgrade from the mid-1950s, and Toronto from the late-1990s.
 
 Doca was an engineer both by education and by nature. He approached every challenge with enthusiasm, curiosity, and precision—whether it was an engineering project at work, repairing his own car, or building custom-made furniture for his family home.
 
@@ -63,6 +63,6 @@ He will be remembered for his out-of-the-box thinking, intelligence, sense of hu
 
 In keeping with his wishes, cremation has taken place.
 
-Friends of the family are invited to express their condolences at **Mount Pleasant Cemetery’s Funeral Centre** (375 Mount Pleasant Road, Toronto) on **Sunday, November 16, from 11:00 a.m.** The non-religious memorial service (“Celebration of Life”) will begin at **12 noon**, followed by a small reception.
+Friends of the family are welcome to express their condolences at **Mount Pleasant Cemetery’s Funeral Centre** (375 Mount Pleasant Road, Toronto) on **Sunday, November 16, from 11:00 a.m.** The non-religious memorial service (“Celebration of Life”) will begin at **12 noon**, and will be followed by a small reception.
 
 In lieu of flowers, donations in Doca’s memory to the **Sunnybrook Foundation, Canadian Blood Services, Covenant House Toronto**, or a charity of your choice are encouraged.
