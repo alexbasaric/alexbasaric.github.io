@@ -53,7 +53,7 @@ blockquote {
 # Dobrosav Basarić – Doca  
 *September 2, 1937 – November 3, 2025*
 
-<img src="doca-i-katarina.jpg" alt="Dobrosav Basarić – Doca" class="memorial-photo">
+<img src="doca-final-1.png" alt="Dobrosav Basarić – Doca" class="memorial-photo">
 
 
 S tugom u srcima delimo vest sa vama, da je nash suprug, otac I deda, Dobrosav Basarić (“Doca“) preminuo 3. novembra 2025-te u Sunnybrook bolnici u Torontu.
