@@ -44,7 +44,7 @@ blockquote {
 }
 </style>
 
-**🇷🇸 Srpski** | [🇬🇧 English](dad)
+[🇷🇸 Srpski](doca) | **🇬🇧 English**
 
 # Dobrosav "Doca" Basarić 
 *September 2, 1937 – November 3, 2025*
