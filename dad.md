@@ -51,7 +51,7 @@ blockquote {
 
 <img src="doca-final-1.png" alt="Dobrosav Basarić">
 
-It is with deep sadness that we announce the passing of Dobrosav Basarić (“Doca”) on November 3, 2025. Doca passed away peacefully under the compassionate care of the Sunnybrook Hospital team in Toronto.
+It is with deep sadness that we announce the passing of **Dobrosav Basarić (“Doca”)** on November 3, 2025. Doca passed away peacefully under the compassionate care of the Sunnybrook Hospital team in Toronto.
 
 He is lovingly remembered by his devoted wife of 64 years, Milena; his cherished children, Aleksandar (Snezana) and Lidia (Nebojsa); and his adored grandchildren, Marko, Filip, Katarina, and Luka.
 
@@ -63,6 +63,6 @@ He will be remembered for his out-of-the-box thinking, intelligence, sense of hu
 
 In keeping with his wishes, cremation has taken place.
 
-Friends of the family are invited to express their condolences at Mount Pleasant Cemetery’s Funeral Centre (375 Mount Pleasant Road, Toronto) on Sunday, November 16, from 11:00 a.m. The non-religious memorial service (“Celebration of Life”) will begin at 12 noon, followed by a small reception.
+Friends of the family are invited to express their condolences at **Mount Pleasant Cemetery’s Funeral Centre** (375 Mount Pleasant Road, Toronto) on **Sunday, November 16, from 11:00 a.m.** The non-religious memorial service (“Celebration of Life”) will begin at **12 noon**, followed by a small reception.
 
-In lieu of flowers, donations in Doca’s memory to the Sunnybrook Foundation, Canadian Blood Services, Covenant House Toronto, or a charity of your choice are encouraged.
+In lieu of flowers, donations in Doca’s memory to the **Sunnybrook Foundation, Canadian Blood Services, Covenant House Toronto**, or a charity of your choice are encouraged.
